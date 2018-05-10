@@ -1,0 +1,4 @@
+INDEX VERSION 1.4+C:\Users\Nebojsa\Desktop\Primeri\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3460231151.index
+852172451.index
+618886758.index

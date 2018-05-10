@@ -1,0 +1,15 @@
+﻿## Hotel - rad sa Date, Spring Security;
+
+### Ulogovati se pomoću: username: A, password: A
+
+Korišćen Spring Boot, AngularJS, Bootstrap...
+
+Aplikacija omogućava plaćanje i rezervaciju soba u hotelu. 
+
+
+## Završni test
+
+### Pristupa se: http:localhost:8080/!#/igraci
+
+
+
